@@ -1,0 +1,1 @@
+# IGT-Knime-workspace-Coleta-de-Dados
